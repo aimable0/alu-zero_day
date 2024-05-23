@@ -1,1 +1,1 @@
-This is a dir that will contain some git projects
+The project is about git
