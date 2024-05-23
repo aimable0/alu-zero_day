@@ -1,1 +1,1 @@
-The project is about git
+The project is about git and its basic commands
